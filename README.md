@@ -1,16 +1,18 @@
-## Hi there 👋
+# Xasheo
 
-<!--
-**Xasheo/Xasheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Mainframe z/OS
 
-Here are some ideas to get you started:
+### Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logo=ibm&logoColor=white)
+![JCL](https://img.shields.io/badge/JCL-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![VSAM](https://img.shields.io/badge/VSAM-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)
+![CICS](https://img.shields.io/badge/CICS-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
+![REXX](https://img.shields.io/badge/REXX-4589FF?style=for-the-badge&logo=ibm&logoColor=white)
+![z/OS](https://img.shields.io/badge/z%2FOS-161616?style=for-the-badge&logo=ibm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Actualmente
+
+- Desarrollo de aplicaciones batch y online en mainframe
